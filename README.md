@@ -9,9 +9,9 @@ This project is a side car project created for below purposes
 Note: This program while ran will create an interactive menu where user can enter a random text
 and a count variable. The system will print the text that many times in to a file
 
-   If windows then to --> C:\MyTemp\sreejith\MyProgOut.txt;
+   If windows then to --> C:\MyTemp\sreejith\MyProgOut.txt
 
-   If Linux   then to = "/tmp/sreejith/MyProgOut.txt";
+   If Linux   then to --> /tmp/sreejith/MyProgOut.txt
 
 Thus this side car project will be used to test two things
  - Intercative running of a docker container
