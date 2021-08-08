@@ -2,6 +2,7 @@
 How to create jar for a Single module Non Spring boot application
 =================================================================
 This project is a side car project created for below purposes
+Note: The source is under "Main Branch"
 
 0) To showcase how to create a jar for a single module NON SPRINGBOOT application
 1) Act as a sample application to test docker interactive mode.
