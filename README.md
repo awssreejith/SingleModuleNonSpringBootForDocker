@@ -14,7 +14,7 @@ and a count variable. The system will print the text that many times in to a fil
    If Linux   then to --> /tmp/sreejith/MyProgOut.txt
 
 Thus this side car project will be used to test two things
- - Intercative running of a docker container
+ - Interactive running of a docker container
  - Volume mapping to save logs 
  
  
